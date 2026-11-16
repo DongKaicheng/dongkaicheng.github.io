@@ -1,0 +1,99 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 6015 >>
+stream
+BT /F2 19.00 Tf 0.15 g 48 750.0 Td (KAICHENG DONG) Tj ET
+BT /F1 10.30 Tf 0.15 g 48 728.9 Td (Research Statement | November 2026) Tj ET
+BT /F1 9.00 Tf 0.15 g 48 716.5 Td (12012612@mail.sustech.edu.cn   |   dongkaicheng.github.io   |   arXiv:2611.09319) Tj ET
+0.45 G 0.55 w 48 699.4 m 564 699.4 l S
+BT /F2 10.50 Tf 0.15 g 48 681.4 Td (RESEARCH PERSPECTIVE) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 666.8 Td (My research interests lie in arithmetic and Diophantine geometry, especially Arakelov geometry,) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 654.8 Td (adelic line bundles, positivity and height theory. I am interested in how global arithmetic) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 642.8 Td (quantities are described through local analytic and geometric constructions. The theory of) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 630.8 Td (admissible metrics on curves and non-Archimedean analytic geometry provide a starting point for my) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 618.8 Td (work.) Tj ET
+BT /F2 10.50 Tf 0.15 g 48 597.8 Td (MASTER'S THESIS: ADMISSIBLE PAIRINGS AND BOGOMOLOV BOUNDS) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 583.2 Td (My 2026 ALGANT master's thesis, Admissible Pairing and Effective Bogomolov Results, was supervised) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 571.2 Td (by Pascal Autissier at the University of Bordeaux. Starting from Zhang's theory of admissible) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 559.2 Td (pairings on algebraic curves, I studied the relation between Neron-Tate pairings on Jacobians and) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 547.2 Td (intersection theory of admissibly metrized line bundles. I examined both archimedean Arakelov) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 535.2 Td (metrics and non-Archimedean constructions involving metrized graphs, Green functions and canonical) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 523.2 Td (measures.) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 507.2 Td (The thesis reorganizes this framework in the language of adelic line bundles, compares local) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 495.2 Td (admissible pairings with Neron symbols, and reformulates Zhang's inequality for the essential) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 483.2 Td (minimum in terms of adelic intersections. It also examines residue-field assumptions and reviews) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 471.2 Td (recent quantitative Bogomolov results. This work provided training in moving between arithmetic) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 459.2 Td (surfaces, Berkovich geometry, metrics and global height inequalities.) Tj ET
+BT /F2 10.50 Tf 0.15 g 48 438.2 Td (CURRENT PREPRINT: ONE COMPLEX METRIC AND GEOMETRIC ADELIC NEFNESS) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 423.6 Td (My single-author preprint, One complex metric and geometric adelic nefness \(arXiv:2611.09319v1,) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 411.6 Td (submitted 6 November 2026\), studies a positivity criterion for compactified line bundles on smooth) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 399.6 Td (quasi-projective varieties. It relates the semipositivity of a compatible prescribed complex) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 387.6 Td (metric to nefness of the geometric extension data. For arithmetic adelic line bundles over number) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 375.6 Td (fields, this yields geometric nefness from a suitable metric at a single complex embedding.) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 359.6 Td (The proof uses extension of plurisubharmonic weights, multiplier ideals, Nadel vanishing and) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 347.6 Td (Castelnuovo-Mumford regularity to construct semiample approximations. Specialization and Galois) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 335.6 Td (descent then transfer the construction to the number field. An application establishes geometric) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 323.6 Td (nefness of Gao-Zhang's Gross-Schoen adelic line bundle. The manuscript discloses the use of) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 311.6 Td (generative AI and links to selected development records. This result concerns geometric nefness,) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 299.6 Td (while arithmetic positivity remains a separate motivating problem.) Tj ET
+BT /F2 10.50 Tf 0.15 g 48 278.6 Td (DIRECTIONS FOR DOCTORAL RESEARCH) Tj ET
+BT /F2 10.40 Tf 0.15 g 48 264.0 Td (1. Adelic positivity and global heights) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 251.5 Td (I hope to investigate how local positivity of metrized line bundles relates to global arithmetic) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 239.5 Td (height inequalities. Gross-Schoen cycles and families of curves provide a natural setting for) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 227.5 Td (studying arithmetic intersection theory, degenerations and positivity.) Tj ET
+BT /F2 10.40 Tf 0.15 g 48 211.5 Td (2. Non-Archimedean analytic methods and degeneration) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 199.0 Td (I am interested in Berkovich analytic spaces, skeleta, Chambert-Loir measures and differential) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 187.0 Td (forms and currents, especially the relation between local analytic semipositivity, algebraic) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 175.0 Td (positivity and local contributions to adelic intersection numbers.) Tj ET
+BT /F2 10.40 Tf 0.15 g 48 159.0 Td (3. Height inequalities on curves and abelian varieties) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 146.5 Td (Building on admissible pairings and the effective Bogomolov problem, I would like to understand) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 134.5 Td (how positivity and equidistribution yield quantitative results about small points on curves, their) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 122.5 Td (Jacobians and related arithmetic families.) Tj ET
+BT /F2 10.50 Tf 0.15 g 48 101.5 Td (PREPARATION AND OUTLOOK) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 86.9 Td (Training at SUSTech, Regensburg and Bordeaux has included algebraic geometry, Diophantine) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 74.9 Td (geometry, algebraic number theory, non-Archimedean Banach algebras, complex geometry, and seminars) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 62.9 Td (on arithmetic surfaces and Berkovich differential forms. I am a non-degree visiting student at) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 393 >>
+stream
+BT /F1 9.90 Tf 0.15 g 48 750.0 Td (Peking University in 2026-2027. During doctoral study I hope to develop precise problems at the) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 738.0 Td (intersection of Arakelov geometry, non-Archimedean geometry and Diophantine questions.) Tj ET
+BT /F1 9.90 Tf 0.15 g 48 722.0 Td (Preprint: https://arxiv.org/abs/2611.09319 Website: https://dongkaicheng.github.io/) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000006468 00000 n 
+0000006604 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+7047
+%%EOF
