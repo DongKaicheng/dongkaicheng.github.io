@@ -5,6 +5,11 @@ on:
     branches: [main]
     paths:
       - cv.tex
+  pull_request:
+    branches: [main]
+    paths:
+      - cv.tex
+      - .github/workflows/publish-cv.yml
 
 permissions:
   contents: write
@@ -40,6 +45,7 @@ jobs:
           name: academic-cv-pdf
           path: cv.pdf
       - name: Commit the updated CV to the personal homepage
+        if: github.event_name == 'push'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
