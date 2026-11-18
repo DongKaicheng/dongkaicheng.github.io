@@ -1,7 +1,7 @@
 \documentclass[10pt,letterpaper]{article}
 \usepackage[letterpaper,left=0.82in,right=0.82in,top=0.72in,bottom=0.69in,headheight=14pt,footskip=22pt]{geometry}
 \usepackage{fontspec}
-\setmainfont{Linux Libertine O}
+\IfFontExistsTF{Linux Libertine O}{\setmainfont{Linux Libertine O}}{\setmainfont{TeX Gyre Termes}}
 \IfFontExistsTF{Inter}{\setsansfont{Inter}}{\setsansfont{TeX Gyre Heros}}
 \usepackage[protrusion=true,expansion=false]{microtype}
 \usepackage{xcolor}
