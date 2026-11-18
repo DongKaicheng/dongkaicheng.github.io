@@ -1,0 +1,52 @@
+name: Publish academic CV PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - cv.tex
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-academic-cv
+  cancel-in-progress: false
+
+jobs:
+  compile-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Build reviewed CV source with XeLaTeX
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: cv.tex
+          latexmk_use_xelatex: true
+      - name: Verify generated PDF
+        run: |
+          test -s cv.pdf
+          head -c 5 cv.pdf | grep -q '%PDF-'
+          if command -v pdfinfo >/dev/null 2>&1; then
+            pdfinfo cv.pdf | grep -q '^Pages: *2$'
+          fi
+      - name: Upload the CV as a run artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: academic-cv-pdf
+          path: cv.pdf
+      - name: Commit the updated CV to the personal homepage
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- cv.pdf
+          if git diff --cached --quiet; then
+            echo 'CV PDF unchanged'
+            exit 0
+          fi
+          git commit -m 'Publish regenerated academic CV PDF'
+          git push origin HEAD:main
